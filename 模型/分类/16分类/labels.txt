@@ -1,0 +1,16 @@
+electrodrill
+headphones
+keyboard
+math
+mobile_phone
+monitor
+mouse
+multimeter
+oscillograph
+pliers
+printer
+screwdriver
+soldering_iron
+speaker
+tape_measure
+wrench
